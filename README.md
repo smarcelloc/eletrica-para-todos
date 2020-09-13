@@ -1,4 +1,4 @@
-# #Elétrica para Todos WORDPRESS
+# Elétrica para Todos WORDPRESS
 Elétrica para Todos é um blog sobre eletricidade com linguajado simples, fácil de entender e menos técnicos.
 
 ![Tela principal](tela.png?raw=true)
